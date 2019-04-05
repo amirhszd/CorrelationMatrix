@@ -8,7 +8,6 @@ correlation matrix, collinearity problem
 
 """
 from scipy.stats import pearsonr
-from scipy.io import loadmat
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import norm
